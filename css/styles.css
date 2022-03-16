@@ -70,6 +70,10 @@ hr {
     border-radius: 100%;
 }
 
+.round-img:hover {
+    opacity: 0.3
+}
+
 .project-row {
     line-height: 2;
     margin: 100px auto 100px auto;
@@ -77,13 +81,13 @@ hr {
     width: 50%;
 }
 
-.right-img {
+.left-img {
     float: left;
     margin-right: 30px;
     width: 25%;
 }
 
-.umbrella-img {
+.right-img {
     float: right;
     margin-left: 30px;
     width: 25%;
@@ -101,7 +105,7 @@ hr {
 
 .contact-phrase {
     margin: 50px auto;
-    width: 35%
+    width: 20%
 }
 
 .footer {
